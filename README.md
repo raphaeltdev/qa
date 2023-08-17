@@ -60,15 +60,15 @@ The tests were prioritized based on the importance of the functionality to the u
 
 1. Clone the repository:
    ```bash
-   git clone [REPOSITORY_URL](https://github.com/raphaeltdev/qa)
+   git clone https://github.com/raphaeltdev/qa
    ```
 
 2. Navigate to the project directory:
 ```bash
-cd e2e
+   cd e2e
 ```
 
-3. Execute npm install.
+3. If you already have Node installed, run `npm install` to install the project dependencies.
 
 
 ## Prerequisites to run the E2E Tests:
