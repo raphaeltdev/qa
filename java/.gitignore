@@ -1,0 +1,45 @@
+# Compiled files
+*.class
+
+# Compiled classes directory
+/target/
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# IDEs and editors
+## Eclipse
+.classpath
+.project
+.settings/
+## IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+## Visual Studio Code
+.vscode/
+## NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Others
+*.jar
+*.war
+*.ear

@@ -1,0 +1,13 @@
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/fixtures/
+cypress/support/
+cypress/integration/examples/
+cypress/plugins/
+cypress.json
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
