@@ -60,12 +60,12 @@ The tests were prioritized based on the importance of the functionality to the u
 
 1. Clone the repository:
    ```bash
-   git clone [REPOSITORY_URL]
+   git clone https://github.com/raphaeltdev/qa
    ```
 
 2. Navigate to the project directory:
 ```bash
-cd [DIRECTORY_NAME]
+cd java/
 ```
 
 3. Launch the application following the instructions from the repository: https://github.com/project-a/qa-automation-coding-challenge.
